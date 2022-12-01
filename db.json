@@ -1,0 +1,242 @@
+{
+"customers": [
+{
+    "allInsurances": [
+        {
+            "policyNo": "3190644875651",
+            "company": "농협손해보험",
+            "insuranceName": "(무) NH가성비굿플러스어린이보험[1종:해지환급금미지급형]2001",
+            "insuranceFee": 36608,
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2020-02-05",
+            "insuranceCoverEnd": "2072-02-05"
+        },
+        {
+            "policyNo": "3190772896741",
+            "company": "농협손해보험",
+            "insuranceName": "(무) NH가성비굿플러스어린이보험[1종:해지환급금미지급형]2004",
+            "insuranceFee": 23847,
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2020-10-19",
+            "insuranceCoverEnd": "2071-10-19"
+        },
+        {
+            "policyNo": "3190980102271",
+            "company": "농협손해보험",
+            "insuranceName": "(무) NH가성비굿플러스어린이보험[2종:표준형]2204",
+            "insuranceFee": 20723,
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2022-04-22",
+            "insuranceCoverEnd": "2072-04-22"
+        },
+        {
+            "policyNo": "3190757104441",
+            "company": "농협손해보험",
+            "insuranceName": "(무) 헤아림실손의료비보험2004",
+            "insuranceFee": 10343,
+            "paymentCycle": "02",
+            "paymentPeriod": "3",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2020-09-28",
+            "insuranceCoverEnd": "2091-09-28"
+        },
+        {
+            "policyNo": "20210228140",
+            "company": "MG손해보험",
+            "insuranceName": "(무)아이조아 어린이보험(21.04)(4종,연만기자동갱신형)",
+            "insuranceFee": 12199,
+            "paymentCycle": "02",
+            "paymentPeriod": "71",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤대*"
+            ],
+            "insuranceCoverStart": "2021-06-21",
+            "insuranceCoverEnd": "2051-06-21"
+        },
+        {
+            "policyNo": "LA20213498319000",
+            "company": "롯데손해보험",
+            "insuranceName": "무배당 let:play 자녀보험(도담도담)(무해지형)(2101)",
+            "insuranceFee": 19891,
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2021-03-18",
+            "insuranceCoverEnd": "2072-03-18"
+        },
+        {
+            "policyNo": "LA20213822190000",
+            "company": "롯데손해보험",
+            "insuranceName": "무배당 let:play 자녀보험(도담도담)(일반형)(2106)",
+            "insuranceFee": 19600,
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2021-07-22",
+            "insuranceCoverEnd": "2072-07-22"
+        },
+        {
+            "policyNo": "20190573632",
+            "company": "MG손해보험",
+            "insuranceName": "무배당 애지중지 아이사랑보험(Ⅱ)(1904)(3종,해지환급금 미지급형)",
+            "insuranceFee": 30186,
+            "paymentCycle": "02",
+            "paymentPeriod": "25",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤대*"
+            ],
+            "insuranceCoverStart": "2019-12-02",
+            "insuranceCoverEnd": "2071-12-02"
+        },
+        {
+            "policyNo": "L21B60000160",
+            "company": "하나손해보험",
+            "insuranceName": "무배당 하나 가득담은 건강보험(2104)",
+            "insuranceFee": 13159,
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2021-07-14",
+            "insuranceCoverEnd": "2051-07-14"
+        },
+        {
+            "policyNo": "320190039474",
+            "company": "DB손해보험",
+            "insuranceName": "아이(I)러브(LOVE)건강보험1901",
+            "insuranceFee": 31020,
+            "paymentCycle": "02",
+            "paymentPeriod": "20",
+            "contractorName": "윤대호",
+            "insuranceRelation": null,
+            "insuredNames": [
+                "윤*호"
+            ],
+            "insuranceCoverStart": "2019-01-09",
+            "insuranceCoverEnd": "2092-01-09"
+        }
+    ],
+    "allCovers": [
+        {
+            "policyNo": "LA20213498319000",
+            "insurerName": "윤*호",
+            "insuredName": "윤*호",
+            "insuranceFee": 19891,
+            "coverName": "골절수술/골절수술비",
+            "coverAmount": 300000,
+            "coverStart": "2021-03-18",
+            "coverEnd": "2072-03-18",
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤*호"
+        },
+        {
+            "policyNo": "3190644875651",
+            "insurerName": "윤*호",
+            "insuredName": "윤*호",
+            "insuranceFee": 36608,
+            "coverName": "골절수술/골절수술비",
+            "coverAmount": 500000,
+            "coverStart": "2020-02-05",
+            "coverEnd": "2072-02-05",
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤*호"
+        },
+        {
+            "policyNo": "3190980102271",
+            "insurerName": "윤*호",
+            "insuredName": "윤*호",
+            "insuranceFee": 20723,
+            "coverName": "골절진단/골절진단비",
+            "coverAmount": 100000,
+            "coverStart": "2022-04-22",
+            "coverEnd": "2072-04-22",
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤*호"
+        },
+        {
+            "policyNo": "LA20213822190000",
+            "insurerName": "윤*호",
+            "insuredName": "윤*호",
+            "insuranceFee": 19600,
+            "coverName": "골절진단/골절진단비(치아파절제외)",
+            "coverAmount": 400000,
+            "coverStart": "2021-07-22",
+            "coverEnd": "2072-07-22",
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤*호"
+        },
+        {
+            "policyNo": "320190039474",
+            "insurerName": "윤*호",
+            "insuredName": "윤*호",
+            "insuranceFee": 31020,
+            "coverName": "기타_가족생활배상책임/가족일상생활배상책임(대물본인부담20만원)(실손)",
+            "coverAmount": 100000000,
+            "coverStart": "2019-01-09",
+            "coverEnd": "2072-01-09",
+            "paymentCycle": "02",
+            "paymentPeriod": "20",
+            "contractorName": "윤*호"
+        },
+        {
+            "policyNo": "3190644875651",
+            "insurerName": "윤*호",
+            "insuredName": "윤*호",
+            "insuranceFee": 36608,
+            "coverName": "기타_가족생활배상책임/가족일상생활중배상책임",
+            "coverAmount": 100000000,
+            "coverStart": "2020-02-05",
+            "coverEnd": "2072-02-05",
+            "paymentCycle": "02",
+            "paymentPeriod": "30",
+            "contractorName": "윤*호"
+        }
+    ],
+    "dataSource": "마이데이터",
+    "latestInquiredTs": "2022-11-28",
+    "riskCalculatorUrl": "",
+    "insuredName": "윤대호"
+}
+]
+}
